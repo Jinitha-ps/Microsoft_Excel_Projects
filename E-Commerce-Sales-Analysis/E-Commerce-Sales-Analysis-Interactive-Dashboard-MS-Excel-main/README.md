@@ -1,3 +1,5 @@
+![Microsoft_Excel_Projects/E-Commerce-Sales-Analysis/E-Commerce-Sales-Analysis-Interactive-Dashboard-MS-Excel-main](Ecommerce_Dashboard_Image.png)
+
 # 📊 E-Commerce Sales Analysis & Interactive Dashboard (Excel)
 
 This project demonstrates end-to-end data analysis using Microsoft Excel to transform raw e-commerce transaction data into actionable business insights through an interactive dashboard.
