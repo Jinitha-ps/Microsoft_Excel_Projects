@@ -55,14 +55,6 @@ Employee-Data-Form/
 
 ---
 
-## 📸 Project Preview
-
-
-
-```
-![Microsoft_Excel_Projects/Employee%20Data%20Form](Employee_data_form.png)
-```
-
 ---
 
 ## 💡 Skills Demonstrated
