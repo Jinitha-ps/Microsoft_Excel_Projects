@@ -60,7 +60,7 @@ Employee-Data-Form/
 
 
 ```
-![Employee Data Form](Employee_data_form.png)
+![Microsoft_Excel_Projects/Employee%20Data%20Form](Employee_data_form.png)
 ```
 
 ---
