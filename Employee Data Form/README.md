@@ -57,10 +57,10 @@ Employee-Data-Form/
 
 ## 📸 Project Preview
 
-> Add a screenshot of your Excel form here.
+
 
 ```
-Screenshot.png
+
 ```
 
 ---
